@@ -1,2 +1,1 @@
-vb.common.classes
-=================
+Common VB.NET Classes
